@@ -3,12 +3,11 @@
     "",
     "\\KOLOKWIUM",
     "\\KOLOKWIUM\\KOLOKWIUM",
+    "\\KOLOKWIUM\\KOLOKWIUM\\Controllers",
     "\\KOLOKWIUM\\KOLOKWIUM\\DTOs",
     "\\KOLOKWIUM\\KOLOKWIUM\\Models",
-    "\\KOLOKWIUM\\KOLOKWIUM\\Properties",
     "\\KOLOKWIUM\\KOLOKWIUM\\Repositorys",
     "\\KOLOKWIUM\\KOLOKWIUM\\Services"
   ],
-  "SelectedNode": "\\KOLOKWIUM\\KOLOKWIUM\\KOLOKWIUM.csproj",
   "PreviewInSolutionExplorer": false
 }
